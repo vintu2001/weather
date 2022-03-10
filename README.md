@@ -1,7 +1,7 @@
 # Weather-App  :sun_behind_small_cloud:
 
 This is a weather App which helps user to get the weather conditions(Current and forecast of next 7 days) at current location :round_pushpin:.
-This app is Made with React-Native ehich uses openweathermap.org API to get weather details of any location.
+This app is Made with React-Native which uses openweathermap.org API to get weather details of any location.
 
 
 ## Demo Video:
