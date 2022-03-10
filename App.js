@@ -7,7 +7,7 @@ import LottieView from "lottie-react-native";
 import WeatherCard from "./components/WeatherCard";
 import CurrentWeather from "./components/CurrentWeather";
 
-const API_KEY = "bf930e40d953dc4a201312d00e72b589";
+// const API_KEY = "You Can insert API KEY here";
 
 const App = () => {
   const [data, setData] = useState(null);
